@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "269958885064",
+    "project_id": "zeex-ai-task-4ab62",
+    "storage_bucket": "zeex-ai-task-4ab62.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269958885064:android:d7aab3cfd93c9394b93ffd",
+        "android_client_info": {
+          "package_name": "com.example.task1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9x6TMIfbC7bt8SizLwE7p9QpQGpqfGS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

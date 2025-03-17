@@ -1,7 +1,7 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:get/get_navigation/src/root/get_material_app.dart';
+import 'package:get/get.dart';
 import 'package:task1/src/features/authentication/screens/splash_screen/splash_screen.dart';
 import 'package:task1/src/utils/theme/theme.dart';
 
@@ -21,6 +21,7 @@ void main() async {
   } else {
     await Firebase.initializeApp();
   }
+
   runApp(const MyApp());
 }
 
